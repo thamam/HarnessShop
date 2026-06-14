@@ -29,3 +29,6 @@ models/
 
 # Logs / traces
 *.log
+
+# BMAD output artifacts (regenerated per session)
+_bmad-output/
